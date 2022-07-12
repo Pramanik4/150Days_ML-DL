@@ -16,4 +16,34 @@
   ![image](https://user-images.githubusercontent.com/75212387/176869130-5f8c0b85-59f3-4634-aa26-548326d1fe1e.png)
 
 
+**Clustering** is the process of diving the dataset into groups, consisting of similar data points
+
+    i) Points in the same group are as similar as possible 
+    ii) Points in the different group are as disimilar as possible
+    
+**Examples of Clustering are :**
+
+   i) Group of diners in a restaurant
+   ii) Items are arranged in a mall
+   
+
+**K-Means is a clustering algorithm** who's main goal is to group similar elements or data points into a cluster
+
+" K " in K-Means Clustering represent the number of cluster
+Algorithm:
+select the number of clusters to be identified eg:- select a value for k=3 in this case
+
+**Algorithm**
+
+  i) Randomly select 3 distinct data point
+
+  ii) Measure the distance between the 1st point and selected 3 clusters
+
+  iii) Assign the 1st point to the nearest cluster
+
+  iv) Calculate the cluster mean using the new data point
+
+  v) Repeat these steps again till all points get covered
+
+
 ![image](https://user-images.githubusercontent.com/75212387/178396361-4be51041-4541-4189-a634-455ed7ab4a81.png)
