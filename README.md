@@ -20,7 +20,7 @@
 - **Types of Clustering**
 - **K-Means Clustering (implementation using sklearn)**
 
-[K-Means Clustering Notebook]('https://www.kaggle.com/code/poojapramanik/k-means-cluster')
+   [K-Means Clustering Notebook](https://www.kaggle.com/code/poojapramanik/k-means-cluster)
 
 
 
