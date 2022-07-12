@@ -44,6 +44,6 @@ select the number of clusters to be identified eg:- select a value for k=3 in th
   iv) Calculate the cluster mean using the new data point
 
   v) Repeat these steps again till all points get covered
-
+[notebook]("http://localhost:8888/notebooks/Documents/K-Means%20Clustering.ipynb")
 
 ![image](https://user-images.githubusercontent.com/75212387/178396361-4be51041-4541-4189-a634-455ed7ab4a81.png)
