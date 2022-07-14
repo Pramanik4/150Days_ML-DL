@@ -27,6 +27,10 @@
 ## Days3 of 150Days
 **Topic:**
 - **Regression**
+- **Logistic Regression**
+- **Difference between Linear Regression and Logistic Regression**
+
+ [Logistic Regression Notebook](https://www.kaggle.com/poojapramanik/logistic-regression)
 
 ![image](https://user-images.githubusercontent.com/75212387/178862939-55e20bee-8a0b-4d14-b384-3d3bc876d31e.png)
 ![image](https://user-images.githubusercontent.com/75212387/178863146-323c490c-b38f-4bae-bd1d-5627012270ae.png)
