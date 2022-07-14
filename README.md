@@ -15,12 +15,29 @@
   ![image](https://user-images.githubusercontent.com/75212387/176869310-b63a1598-1752-4367-bff8-407800b45a02.png)
   ![image](https://user-images.githubusercontent.com/75212387/176869130-5f8c0b85-59f3-4634-aa26-548326d1fe1e.png)
 
+## Days2 of 150Days
+
 **Topic:**
 - **Clustering**
 - **Types of Clustering**
 - **K-Means Clustering (implementation using sklearn)**
 
 [K-Means Clustering Notebook](https://www.kaggle.com/code/poojapramanik/k-means-cluster)
+
+## Days3 of 150Days
+**Topic:**
+- **Regression**
+
+![image](https://user-images.githubusercontent.com/75212387/178862939-55e20bee-8a0b-4d14-b384-3d3bc876d31e.png)
+![image](https://user-images.githubusercontent.com/75212387/178863146-323c490c-b38f-4bae-bd1d-5627012270ae.png)
+
+![image](https://user-images.githubusercontent.com/75212387/178863747-f6376747-e931-4bb6-a544-580cf88959f0.png)
+
+![image](https://user-images.githubusercontent.com/75212387/178864642-eb0cbb8c-f897-4163-95bd-e30c434f38f1.png)
+
+There is a threshold value 0.5. So if the value point will be >= 0.5 than the outcome must be 0 or if the value point will be <= 0.5 than the outcome must be 1 **For example:- if my value point is at 0.8 than in this case this Logistic Regression Model will predict the outcome as 1**
+
+![image](https://user-images.githubusercontent.com/75212387/178866648-4ac5a3dc-f9aa-433d-a513-7b762bd63968.png)
 
 
 
