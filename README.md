@@ -41,6 +41,9 @@ There is a threshold value 0.5. So if the value point will be >= 0.5 than the ou
 - **Type of Linear Regression**
 - **Linear Regression( implementation using sklearn)**
 
+[Linear Regression Notebook](https://www.kaggle.com/code/poojapramanik/linear-regression)
+
+
 ![image](https://user-images.githubusercontent.com/75212387/179143399-f3f40fb5-d0ef-4b58-b77f-43b81ca1ce73.png)
 **What is R square**
 ![image](https://user-images.githubusercontent.com/75212387/179143884-662a96e2-f337-4501-bb89-a2c25add708a.png)
