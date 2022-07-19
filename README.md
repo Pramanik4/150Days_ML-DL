@@ -50,5 +50,13 @@ There is a threshold value 0.5. So if the value point will be >= 0.5 than the ou
 
 ![image](https://user-images.githubusercontent.com/75212387/179143771-061b7dcd-2a34-46e9-a8f5-2596fa692286.png)
 
+## Days4 of 150Days
+
+**Topic:**
+- **KNN Classifiaction**
+- **KNN Classification( implementation using sklearn)**
+
+[KNN Classification Notebook](https://www.kaggle.com/code/poojapramanik/knn-classification)
+
 
 ![image](https://user-images.githubusercontent.com/75212387/178396361-4be51041-4541-4189-a634-455ed7ab4a81.png)
