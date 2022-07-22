@@ -59,4 +59,12 @@ There is a threshold value 0.5. So if the value point will be >= 0.5 than the ou
 [KNN Classification Notebook](https://www.kaggle.com/code/poojapramanik/knn-classification)
 
 
+## Days5 of 150Days
+
+**Topic:**
+- **Decision Tree**
+- **Decision Tree( implementation using sklearn)**
+
+[Decision Tree Notebook](https://www.kaggle.com/code/poojapramanik/decision-tree)
+
 ![image](https://user-images.githubusercontent.com/75212387/178396361-4be51041-4541-4189-a634-455ed7ab4a81.png)
