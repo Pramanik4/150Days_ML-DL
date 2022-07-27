@@ -37,12 +37,20 @@ There is a threshold value 0.5. So if the value point will be >= 0.5 than the ou
 ## Days3 of 150Days
 
 **Topic:**
-- **Linear Regression**
+- **Simple Linear Regression**
+- **Simple Linear Regression( implementation using sklearn)**
+
+[Simple Linear Regression Notebook](https://www.kaggle.com/code/poojapramanik/simple-linear-regression)
+
+
+## Days4 of 150Days
+
+**Topic:**
+- **Multiple Linear Regression**
 - **Type of Linear Regression**
-- **Linear Regression( implementation using sklearn)**
+- **Multiple Linear Regression( implementation using sklearn)**
 
-[Linear Regression Notebook](https://www.kaggle.com/code/poojapramanik/linear-regression)
-
+[Multiple Linear Regression Notebook](https://www.kaggle.com/code/poojapramanik/linear-regression)
 
 ![image](https://user-images.githubusercontent.com/75212387/179143399-f3f40fb5-d0ef-4b58-b77f-43b81ca1ce73.png)
 **What is R square**
@@ -50,7 +58,8 @@ There is a threshold value 0.5. So if the value point will be >= 0.5 than the ou
 
 ![image](https://user-images.githubusercontent.com/75212387/179143771-061b7dcd-2a34-46e9-a8f5-2596fa692286.png)
 
-## Days4 of 150Days
+
+## Days5 of 150Days
 
 **Topic:**
 - **KNN Classifiaction**
@@ -59,7 +68,7 @@ There is a threshold value 0.5. So if the value point will be >= 0.5 than the ou
 [KNN Classification Notebook](https://www.kaggle.com/code/poojapramanik/knn-classification)
 
 
-## Days5 of 150Days
+## Days6 of 150Days
 
 **Topic:**
 - **Decision Tree**
