@@ -147,3 +147,12 @@ A single neuron (called as perceptron in ANN)
 
 
 ![image](https://user-images.githubusercontent.com/75212387/178396361-4be51041-4541-4189-a634-455ed7ab4a81.png)
+
+
+
+
+**What is Feature Selection?**
+
+In Machine Learning, Feature selection means Attribute Selection for use in model construction. **Importance of Feature Selection** 1) To reduce the training time 2) To avoid the curse of dimensionality.**There are many ways to do feature selection** 
+
+**1)Remove feature with low variance** It means that this feature has only one value and all instances share the same value on this feature. In other words, this feature does not have any information and contributes nothing to the prediction of the target. Similarly, those features with low variance have little information about the target, we could remove them without reducing the performance of the model.
