@@ -37,8 +37,18 @@ There is a threshold value 0.5. So if the value point will be >= 0.5 than the ou
 ## Days3 of 150Days
 
 **Topic:**
+- **Linear Regression**
 - **Simple Linear Regression**
 - **Simple Linear Regression( implementation using sklearn)**
+
+What is Linear Regression?
+
+Linear regression is about learning the relationship between the dependent and independent variables from a pile of historical data.
+
+linear regression is about fitting data to minimize the sum of residual between each point and the predicted value. As shown in the figure below, the red line is the model we solved, the blue point is the original data, and the distance between the point and the red line is the residual. Our goal is to minimize the sum of residuals.
+
+![image](https://user-images.githubusercontent.com/75212387/181803786-1b7b3b64-28be-4fbe-bf21-e7312166aa79.png)
+
 
 [Simple Linear Regression Notebook](https://www.kaggle.com/code/poojapramanik/simple-linear-regression)
 
@@ -153,6 +163,11 @@ A single neuron (called as perceptron in ANN)
 
 **What is Feature Selection?**
 
-In Machine Learning, Feature selection means Attribute Selection for use in model construction. **Importance of Feature Selection** 1) To reduce the training time 2) To avoid the curse of dimensionality.**There are many ways to do feature selection** 
+In Machine Learning, Feature selection means Attribute Selection for use in model construction. **Importance of Feature Selection** 1) To reduce the training time 2) To avoid the curse of dimensionality.
+
+**There are many ways to do feature selection** 
 
 **1)Remove feature with low variance** It means that this feature has only one value and all instances share the same value on this feature. In other words, this feature does not have any information and contributes nothing to the prediction of the target. Similarly, those features with low variance have little information about the target, we could remove them without reducing the performance of the model.
+
+![image](https://user-images.githubusercontent.com/75212387/181802092-830a1ad0-aab0-40c2-87d5-e79f60314658.png)
+
