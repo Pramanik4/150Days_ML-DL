@@ -128,6 +128,8 @@ Using Keras model, Keras Layer, and Keras modules, any ANN algorithm (CNN, RNN, 
 **Topic**
 - **Introduction to ANN(Artificial Neural Network)**
 
+![image](https://user-images.githubusercontent.com/75212387/182507105-1622bece-d9db-47cf-9986-86d0905237fa.png)
+
 
 As the human brain is made up of more than 90 billion tiny cells called “Neurons”. Neurons are inter-connected through nerve 
 fiber called “axons” and “Dendrites”. The main role of axon is to transmit information from one neuron to another to which 
@@ -149,6 +151,31 @@ A single neuron (called as perceptron in ANN)
 
 **There are 3 main topic associated with ANN**
 1) Forward Propogation 2) Backprogation 3) Activation Functions
+
+**Data flow in an ANN**
+We are aware that an ANN architecture consists of 3 major components - The input layer, The hidden layers, and the output layers. 
+
+The input layer, as the name gives out, receives and preprocesses the input, which is then sent out to the hidden layer. This is where most of the work is done. After making the computations, the results are then passed on to the output layer. This makes the first part of a single training iteration. **This is called Forward Propagation.** After the output layer receives the data, the generated results are then compared with the actual outputs, and the error is reduced based on the feedback that’s received. **This is known as Backpropagation.**
+
+**Definition of activation function:-**
+
+Activation function decides, whether a neuron should be activated or not by calculating weighted sum and further adding bias with it.
+
+**Examples of Activation Function are:-**
+
+**1) Sigmoid-**
+
+![image](https://user-images.githubusercontent.com/75212387/182511915-98dcf8d0-1431-4db1-89df-dc924bda2aa6.png)
+
+Sigmoid is most popular activation function used in binary classification problem statement or output layer of ANN. Sigmoid calculation will give output between 0 to 1. So if number calculated by Sigmoid activation function is near to 0 then next neuron in ANN will not be activated and if it is near to 1 then next neuron will be get activated.
+
+**2)  RELU-**
+
+![image](https://user-images.githubusercontent.com/75212387/182512831-c753df5e-cff5-45fb-80a8-382b95769761.png)
+
+Stands for Rectified linear unit. It is the most widely used activation function. Chiefly implemented in hidden layers of Neural network.
+
+Equation :- A(x) = max(0,x). It gives an output x if x is positive and 0 otherwise.
 
 ## Days9 of 150Days
 
