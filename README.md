@@ -177,6 +177,13 @@ Stands for Rectified linear unit. It is the most widely used activation function
 
 Equation :- A(x) = max(0,x). It gives an output x if x is positive and 0 otherwise.
 
+![image](https://user-images.githubusercontent.com/75212387/182521987-3268467f-7cf8-4f63-834d-ed4932359ba3.png)
+
+![image](https://user-images.githubusercontent.com/75212387/182522002-58bb5762-829a-4d1b-a5af-d30e81c0d7ff.png)
+
+![image](https://user-images.githubusercontent.com/75212387/182522086-4968d32b-d5f7-4356-8f26-53bd9a77940c.png)
+
+
 ## Days9 of 150Days
 
 **Topic**
