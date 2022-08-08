@@ -205,3 +205,25 @@ In Machine Learning, Feature selection means Attribute Selection for use in mode
 
 ![image](https://user-images.githubusercontent.com/75212387/181802092-830a1ad0-aab0-40c2-87d5-e79f60314658.png)
 
+## Days10 of 150Days
+
+**Topic**
+- **Overfitting**
+- **Underfitting**
+
+Overfitted model gives high accuracy on the training set (sample data) but fails to achieve good accuracy on the test set.
+
+Before understanding overfitting, we need to know some basic terms, which are:
+
+Noise :- Irrelevant data
+
+Bais :- It is a prediction error. means difference between actual and predicted value.
+
+Variance :- perform well in training dataset but fails to perform well on test data.
+
+Generalization: It shows how well a model is trained to predict unseen data.
+
+NOTE :- An overfitted model is said to have low bias and high variance.
+
+Example :- Y has a good memory, hence memorized the whole book. Student Y will only be able to solve questions if they appear exactly the same as given in the book.
+Suppose the model learns the training dataset, like the Y student. They perform very well on the seen dataset but perform badly on unseen data or unknown instances. In such cases, the model is said to be Overfitting.
