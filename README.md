@@ -227,3 +227,9 @@ NOTE :- An overfitted model is said to have low bias and high variance.
 
 Example :- Y has a good memory, hence memorized the whole book. Student Y will only be able to solve questions if they appear exactly the same as given in the book.
 Suppose the model learns the training dataset, like the Y student. They perform very well on the seen dataset but perform badly on unseen data or unknown instances. In such cases, the model is said to be Overfitting.
+
+**Ways to prevent the Overfitting**
+
+**Early Stopping** In this technique, the training is paused before the model starts learning the noise within the model.Stopping the training process before the model starts capturing noise from the data is known as **early stopping**. However, this technique may lead to the underfitting problem if training is paused too early. So, it is very important to find that "sweet spot" between underfitting and overfitting.
+
+[Notes on  Overfitting](https://www.javatpoint.com/overfitting-in-machine-learning)
