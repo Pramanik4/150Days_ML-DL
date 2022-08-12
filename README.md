@@ -189,6 +189,8 @@ Equation :- A(x) = max(0,x). It gives an output x if x is positive and 0 otherwi
 **Topic**
 - **Introduction to CNN(Convolutional Neural Network)**
 
+**Resources**
+[CNN parameters description](https://pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/)
 
 ![image](https://user-images.githubusercontent.com/75212387/178396361-4be51041-4541-4189-a634-455ed7ab4a81.png)
 
